@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lofi1538.github.io/lofi1538/sitemap.xml
