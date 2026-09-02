@@ -1,0 +1,1 @@
+Upload index.html, robots.txt and sitemap.xml to your GitHub repository. Then add the website to Google Search Console and submit sitemap.xml.
